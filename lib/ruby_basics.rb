@@ -26,4 +26,5 @@ end
 
 def pizza_party(toppings = "cheese")
   "#{toppings}"
+  puts "#{toppings}"
 end
